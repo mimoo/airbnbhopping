@@ -1,0 +1,3 @@
+baseURL = "https://mimoo.github.io/airbnbhopping"
+languageCode = "en-us"
+title = "My New Hugo Site"
